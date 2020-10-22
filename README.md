@@ -1,4 +1,4 @@
-## AWS BASH SCRIPTS on s3 buckets
+## AWS BASH SCRIPTS on s3 
 
 ### Automatic rotation of AWS profile credentials
 
