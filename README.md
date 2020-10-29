@@ -1,6 +1,6 @@
 ## AWS BASH SCRIPTS
 
-### Automatic rotation of AWS profile credentials
+### Automatic rotation of AWS profile 
 
 Script rotates AWS access keys stored in the user's ~/.aws/credentials file. Selected profiles will simply get their credentials rotated. Script will make sure there is just one existing key attached to existing user or to remove one of the two existing keys. It then proceeds to create and test the new key and them replace the keys in the user's ~/.aws/credentials file for specified profiles.
 
