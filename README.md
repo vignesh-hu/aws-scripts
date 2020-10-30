@@ -1,4 +1,4 @@
-## AWS BASH SCRIPTS S3 Buckets
+## AWS BASH SCRIPTS S3 
 
 ### Automatic rotation of AWS 
 
