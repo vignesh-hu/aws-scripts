@@ -1,4 +1,4 @@
-## AWS BASH SCRIPTS S3 buckets12345678
+## AWS BASH SCRIPTS S3 buckets########
 
 ### Automatic rotation of AWS 
 
