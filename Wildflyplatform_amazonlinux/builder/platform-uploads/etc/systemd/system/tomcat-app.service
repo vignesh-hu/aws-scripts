@@ -1,0 +1,8 @@
+[Unit]
+Description=Script to monitor wildfly process
+
+[Service]
+User=tomcat7
+ExecStart=/bin/bash -c "cd /opt/wildfly/standalon/deployment/wildfly-app; exec bin/startup.sh"
+Restart=on-failure
+
